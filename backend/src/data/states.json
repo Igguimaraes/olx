@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Acre" },
+  { "id": 2, "name": "Alagoas" },
+  { "id": 3, "name": "Amapá" },
+  { "id": 4, "name": "Amazonas" },
+  { "id": 5, "name": "Bahia" },
+  { "id": 6, "name": "Ceará" },
+  { "id": 7, "name": "Distrito Federal" },
+  { "id": 8, "name": "Espírito Santo" },
+  { "id": 9, "name": "Goiás" },
+  { "id": 10, "name": "Maranhão" }
+]

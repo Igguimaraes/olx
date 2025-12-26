@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "email": "teste@teste.com",
+    "password": "$2b$10$IMYrDFmsXvYK3UI4BpxISegDFjas2.cW7K.kuuBgp/VvtAdnBPa1q"
+  },
+  {
+    "id": 2,
+    "name": "igor",
+    "email": "igor@teste.com",
+    "password": "1234",
+    "state": "1"
+  }
+]
